@@ -2,4 +2,4 @@
 
 > Status do Projeto: Em desenvolvimento
 
-npm install
+node app.js
